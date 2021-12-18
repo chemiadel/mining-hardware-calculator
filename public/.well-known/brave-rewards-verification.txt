@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mining-hardware-calculator.vercel.app
+Token: b9e3ce1d97e2575b3d8394006e9cb35787ac7105e54f54b18634121526a54e31
